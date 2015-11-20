@@ -1,0 +1,14 @@
+wsent
+takahashi
+why?
+@nyan.png
+easy to use
+no dependencies
+~100 lines of code
+how?
+browse to FILENAME
+one slide per line
+# This is a comment and will not be part of the presentation
+# The next line starts with a whitespace, it will not produce an image slide
+ @FILE.png
+thanks / questions?
